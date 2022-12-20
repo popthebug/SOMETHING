@@ -1,0 +1,30 @@
+<->[NORMAL]#00000001#Mon Aug 15 17:36:54 2022#FurMark 1.30.0.0 is starting up...
+<->[NORMAL]#00000002#Mon Aug 15 17:36:54 2022#FurMark folder: F:\app\tubatools\tools\烤鸡工具\FurMark\
+<->[NORMAL]#00000003#Mon Aug 15 17:36:54 2022#Log file: F:\app\tubatools\tools\烤鸡工具\FurMark\FurMark_0001.txt
+<->[NORMAL]#00000004#Mon Aug 15 17:36:55 2022#CPU/System info:
+<->[NORMAL]#00000005#Mon Aug 15 17:36:55 2022#- CPU: Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz
+<->[NORMAL]#00000006#Mon Aug 15 17:36:56 2022#- CPU speed: 3696 MHz
+<->[NORMAL]#00000007#Mon Aug 15 17:36:56 2022#- System memory: 8068 MB
+<->[NORMAL]#00000008#Mon Aug 15 17:36:56 2022#- OS: Windows 10 64-bit build 19044
+<->[NORMAL]#00000009#Mon Aug 15 17:36:56 2022#Detecting GPUs...
+<->[NORMAL]#00000010#Mon Aug 15 17:36:56 2022#Found 1 GPUs.
+<->[NORMAL]#00000011#Mon Aug 15 17:36:56 2022#- GPU 1:  Intel(R) UHD Graphics 610
+<->[NORMAL]#00000012#Mon Aug 15 17:36:56 2022#  - Cores: 0
+<->[NORMAL]#00000013#Mon Aug 15 17:36:56 2022#  - Memory size: 1024MB
+<->[NORMAL]#00000014#Mon Aug 15 17:36:56 2022#  - Memory type: 
+<->[NORMAL]#00000015#Mon Aug 15 17:36:56 2022#  - TDP: 0W
+<->[NORMAL]#00000016#Mon Aug 15 17:36:56 2022#  - Bus ID: -1
+<->[NORMAL]#00000017#Mon Aug 15 17:36:56 2022#  - Bios: Intel Video BIOS
+<->[NORMAL]#00000018#Mon Aug 15 17:36:56 2022#  - Graphics driver: 30.0.101.1340
+<->[NORMAL]#00000019#Mon Aug 15 17:36:56 2022#no multi-GPU support (1 physical GPUs)
+<->[NORMAL]#00000020#Mon Aug 15 17:36:56 2022#GPU monitoring thread started up ok.
+<->[NORMAL]#00000021#Mon Aug 15 17:36:56 2022#oZone3D Engine is starting up - kernel build: [v3.4.3 - Nov 12 2021 @ 18:24:44] - codename: Kantalium
+<->[NORMAL]#00000022#Mon Aug 15 17:36:56 2022#oZone3D initialization in progress...
+<->[NORMAL]#00000023#Mon Aug 15 17:36:56 2022#oZone3D - OpenGL renderer creation ok.
+<->[NORMAL]#00000024#Mon Aug 15 17:36:56 2022#o3RendererOpenGL INFO: OpenGL version: 4.6.0 - Build 30.0.101.1340
+<->[NORMAL]#00000025#Mon Aug 15 17:36:56 2022#o3RendererOpenGL INFO: OpenGL Shading Language (GLSL) version: 4.60 - Build 30.0.101.1340
+<->[NORMAL]#00000026#Mon Aug 15 17:36:56 2022#oZone3D initialization ok.
+<->[NORMAL]#00000027#Mon Aug 15 17:36:56 2022#Checking for new version...
+<->[NORMAL]#00000028#Mon Aug 15 17:36:57 2022#A new version is available: 1.31.0.0
+<->[NORMAL]#00000029#Mon Aug 15 17:37:01 2022#oZone3D shutdown ok.
+<->[NORMAL]#00000030#Mon Aug 15 17:37:01 2022#FurMark shutdown OK.
